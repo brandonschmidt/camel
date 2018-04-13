@@ -21,7 +21,7 @@ programming language
 * Annotation DSL - Use annotations in Java
 beans.
 * https://github.com/koolio/kool/tree/master/kool-camel[Kotlin DSL] -
-*Work in progress* - Currently developed outside ASF, but will we
+*Work in progress* - Currently developed outside ASF, but will be
 included later in Camel when Kotlin and the DSL is ready.
 
 The main entry points for the DSL are
